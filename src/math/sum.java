@@ -5,7 +5,7 @@ import java.util.*;
 public class sum {
     int a=6;
     int b=9;
-
+// А тут короче я решил проверить, как все-таки работает коммиты =)
 
     void sum(){
         int c = a + b;
@@ -21,3 +21,4 @@ public class sum {
 
     }
 }
+
